@@ -49,13 +49,13 @@ track task progress, and collaborate efficiently whether working remotely or in 
 
 <p align="center">
 <img src="images/Team%20Portal/LoginPage.png" width="220"/>
-<img src="images/Team%20Portal/PortalPage.png" width="220"/>
-<img src="images/Team%20Portal/DashboradPage.jpeg" width="220"/>
-<img src="images/Team%20Portal/TaskManagerPage.png" width="220"/>
-<img src="images/Team%20Portal/ChatPage.PNG" width="220"/>
-<img src="images/Team%20Portal/AnalyticsPage.png" width="220"/>
-<img src="images/Team%20Portal/PortalsPages.png" width="220"/>
-<img src="images/Team%20Portal/ProfilePage.jpeg" width="220"/>
+<img src="images/Team%20Portal/PortalPage.png" width="200"/>
+<img src="images/Team%20Portal/DashboradPage.jpeg" width="200"/>
+<img src="images/Team%20Portal/TaskManagerPage.png" width="200"/>
+<img src="images/Team%20Portal/ChatPage.PNG" width="200"/>
+<img src="images/Team%20Portal/AnalyticsPage.png" width="200"/>
+<img src="images/Team%20Portal/PortalsPages.png" width="200"/>
+<img src="images/Team%20Portal/ProfilePage.jpeg" width="200"/>
   
 </p>
 
