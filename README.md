@@ -74,25 +74,34 @@ track task progress, and collaborate efficiently whether working remotely or in 
 - Light & Dark Mode Support
 - Git Version Control
 
-# [TAR System](https://apps.apple.com/in/app/tar-system/id6448125946)
-This app lets you verify the authenticity of wines with a TAR seal using your smartphone’s NFC reader. It ensures complete traceability from production to sale, provides consumer reviews, offers food pairing recommendations from the winery, and exclusive promotions for users who scan the TAR label. Advanced technology guarantees authenticity, with each bottle having a unique code for direct feedback to the winery.
+# [SHOU EMA](https://apps.apple.com/lt/app/shouema/id6477866974)
+[View on App Store](https://apps.apple.com/lt/app/shouema/id6477866974)
 
-Conceptualized and developed the app with a strong focus on ease of use and optimal performance. Oversaw the Apple App Store submission, ensuring a smooth launch, and maintained the app with ongoing updates, bug fixes, and the implementation of new features to continuously improve user satisfaction.
+Air Quality Sensor App is an iOS application designed to collect and analyze indoor air quality data from NFC-enabled Nexelec SIGN sensors. The app allows users to scan sensors using their device’s NFC capability, retrieve environmental data, and visualize air quality metrics in an intuitive interface.
+
+The application reads sensor information such as CO₂ levels, temperature, and humidity, enabling users to monitor indoor environmental conditions effectively. It also integrates with backend services to submit collected data, generate compliance reports, and send reports directly to recipients via email.
+
+To support a wider audience, the app includes multi-language support (French and English) and focuses on delivering a smooth sensor interaction experience with clear data visualization.
 
 <p align="left">
-<img src="https://github.com/user-attachments/assets/0ff25ba1-9b24-4607-9484-36c65f45a864", width="200"/>
-<img src="https://github.com/user-attachments/assets/92388a2e-721a-4f44-89c3-e6dee1afb17e", width="200"/>
-<img src="https://github.com/user-attachments/assets/4910e57b-0a97-4cac-b178-4c6a1dd5d550", width="200"/>
-<img src="https://github.com/user-attachments/assets/8f34a597-dab9-4860-8c11-2a165e944509", width="200"/>
-<img src="https://github.com/user-attachments/assets/287b8118-f018-4724-97f4-7e959361b20a", width="200"/>
+<img src="images/ShouEMA/SplashPage.jpeg" width="200"/>
+<img src="images/ShouEMA/IntroPage.PNG" width="200"/>
+<img src="images/ShouEMA/DashboradPage.png" width="213"/>
+<img src="images/ShouEMA/ConfigurePage.PNG" width="200"/>
+<img src="images/ShouEMA/ExportPage.PNG" width="200"/>
+<img src="images/ShouEMA/ReadPage.jpeg" width="200"/>
 </p>
 
 **Tech Used**
 - Swift
+- UIKit
 - Core NFC
-- Location Access
-- REST API's
-- Social SignUp (Firebase Auth)
+- REST APIs
+- MVC Architecture
+- Auto Layout
+- Programmatic UI
+- Localization (French / English)
+- Git Version Control
 
 # [TAR Store](https://apps.apple.com/in/app/tar-store/id6737254181) 
 Developed a wine store app featuring winery details, exclusive promotions, and a marketplace for finding nearby deals. Delivered a seamless and secure user experience using NFC technology.
@@ -125,8 +134,8 @@ Designed and implemented a digital business card app, enhancing professional net
 - Screen Time
 
 ## **📫 Connect with Me**  
-- **LinkedIn:** (https://www.linkedin.com/in/medath-selva-singh/)  
-- **Email:** (medathselvasinghs@gmail.com)  
+- **LinkedIn:** (https://www.linkedin.com/in/poovarasan-k-/)  
+- **Email:** (poovarasankg@gmail.com)  
 
 
 
