@@ -89,7 +89,7 @@ track task progress, and collaborate efficiently whether working remotely or in 
 - UIKit
 - Core Data
 - REST APIs
-- JSON Parsing
+- Codable
 - Firebase Firestore (Real-time Chat)
 - Push Notifications
 - MVC Architecture
@@ -155,6 +155,7 @@ Users can view historical detection locations on Apple Maps, including markers, 
 - Core Location (GPS)
 - MapKit (Apple Maps)
 - REST APIs
+- Codable
 - MVC Architecture
 - Auto Layout
 - Programmatic UI
