@@ -44,8 +44,16 @@ I enjoy building <b>reusable components</b>, improving <b>application performanc
 <b>Features</b>
 
 - Light / Dark Mode Support
-
-
+- Biometric Authentication (Face ID / Touch ID)
+- UserDefaults Data Storage
+- Keychain Secure Storage
+- Local Notifications
+- Localization (Multi-language Support)
+- Background Processing
+- Bluetooth Low Energy (BLE) Device Scanning
+- Map-based Data Visualization
+- Push Notifications with Deep Linking Navigation
+ 
 <h3>📱 Focus Areas</h3>
 
 <p>
@@ -92,6 +100,8 @@ track task progress, and collaborate efficiently whether working remotely or in 
 - Codable
 - Firebase Firestore (Real-time Chat)
 - Push Notifications
+- Deep Linking Navigation
+- Local Notifications
 - MVC Architecture
 - Auto Layout
 - Programmatic UI
