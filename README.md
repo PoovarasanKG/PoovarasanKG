@@ -4,22 +4,47 @@
 ---
 
 <p>
-I'm an <b>iOS Developer</b> with <b>2.5+ years of experience</b> building scalable and user-friendly mobile applications. 
-I focus on creating clean, maintainable code and delivering reliable iOS applications from 
-<b>development to App Store deployment</b>.
+I'm an <b>iOS Developer</b> with <b>2.5+ years of experience</b> building scalable and user-friendly mobile applications. I focus on creating clean, maintainable code and delivering reliable iOS applications from <b>development to App Store deployment</b>.
 </p>
 
 <p>
-I enjoy building <b>reusable components</b>, improving <b>application performance</b>, and developing 
-intuitive mobile experiences that provide real value to users.
+I enjoy building <b>reusable components</b>, improving <b>application performance</b>, and developing intuitive mobile experiences that provide real value to users.
 </p>
 
 <h3>💻 Tech Stack</h3>
 
-<p>
-Swift • UIKit • SwiftUI • REST APIs • Core Data • Xcode • Firebase • Git • MVC • MVVM • Auto Layout • 
-Programmatic UI • Storyboard • XIBs • JSON Parsing • REST API's Integration • Push Notification • Light/Dark Mode Support • Core NFC • Core Bluetooth • Core Location • Firebase Auth • Debugging • App Store Deployment 
-</p>
+<b>Languages</b>
+
+- Swift
+
+<b>UI Development</b>
+
+- UIKit • SwiftUI • Auto Layout • Programmatic UI • Storyboard • XIBs • Customized UI Components
+
+<b>Architecture</b>
+
+- MVC • MVVM
+
+<b>Data & Networking</b>
+
+- REST APIs • JSON Parsing • Core Data
+
+<b>Apple Frameworks</b>
+
+- Core NFC • Core Bluetooth • Core Location
+
+<b>Backend & Services</b>
+
+- Firebase • Firebase Authentication • Push Notifications
+
+<b>Tools</b>
+
+- Xcode • Git • Debugging • App Store Deployment
+
+<b>Features</b>
+
+- Light / Dark Mode Support
+
 
 <h3>📱 Focus Areas</h3>
 
