@@ -83,7 +83,7 @@ The application reads sensor information such as CO₂ levels, temperature, and 
 
 To support a wider audience, the app includes multi-language support (French and English) and focuses on delivering a smooth sensor interaction experience with clear data visualization.
 
-<p align="left">
+<p align="center">
 <img src="images/ShouEMA/SplashPage.jpeg" width="200"/>
 <img src="images/ShouEMA/IntroPage.PNG" width="200"/>
 <img src="images/ShouEMA/DashboradPage.png" width="213"/>
@@ -103,20 +103,36 @@ To support a wider audience, the app includes multi-language support (French and
 - Localization (French / English)
 - Git Version Control
 
-# [TAR Store](https://apps.apple.com/in/app/tar-store/id6737254181) 
-Developed a wine store app featuring winery details, exclusive promotions, and a marketplace for finding nearby deals. Delivered a seamless and secure user experience using NFC technology.
-<p align="left">
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/135ae12603fde02b9b69eeaa7b4ee21647379e76/Dashboard.png", width="200"/>
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/ProductList.png", width="200"/>
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/Profile.png", width="200"/>
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/ScannedProductList.png", width="200"/>
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/f0457a652f616d48d894195de1c20925810e1dc2/Settings.png", width="200"/>
+# [SkyI (Pindrop)](https://apps.apple.com/lt/app/shouema/id6477866974)
+BLE Asset Tracking App is an iOS application designed to detect and track assets using Bluetooth Low Energy (BLE) beacons and mobile GPS. The system allows assets to be registered through a secure invite-based MAC ID registration process, enabling them to be linked with backend services for tracking and monitoring.
+
+The app supports crowd-assisted detection, where nearby user devices can detect registered BLE beacon MAC IDs and report the last-known location to the backend. This approach enables scalable asset visibility without requiring continuous live tracking.
+
+Users can view historical detection locations on Apple Maps, including markers, route lines, and polylines, helping visualize asset movement and last-known positions. The application is designed with a battery-efficient, event-based detection mechanism to minimize device resource usage while maintaining reliable tracking functionality.
+
+<p align="center">
+<img src="images/Pindrop/1. Login.PNG" width="200"/>
+<img src="images/Pindrop/2. Otp page.PNG" width="200"/>
+<img src="images/Pindrop/3. Home page.PNG" width="200"/>
+<img src="images/Pindrop/4. TrackPath.PNG" width="200"/>
+<img src="images/Pindrop/4. Track Path (1).PNG" width="200"/>
+<img src="images/Pindrop/5. Settings page.PNG" width="200"/>
+<img src="images/Pindrop/6. Account page.PNG" width="200"/>
+<img src="images/Pindrop/7. Added networks page.PNG" width="200"/>
 </p>
 
 **Tech Used:**  
-- Swift  
-- Core NFC   
-- REST API's  
+- Swift
+- UIKit
+- Core Bluetooth (BLE)
+- Core Location (GPS)
+- MapKit (Apple Maps)
+- REST APIs
+- MVC Architecture
+- Auto Layout
+- Programmatic UI
+- Background Processing
+- Git Version Control 
 
 # [Zeal Biz](https://apps.apple.com/in/app/zealbiz/id1547217969)
 Designed and implemented a digital business card app, enhancing professional networking with NFC-based contact sharing.
