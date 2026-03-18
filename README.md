@@ -39,7 +39,7 @@ I enjoy building <b>reusable components</b>, improving <b>application performanc
 
 <b>Tools</b>
 
-- Xcode • Git • Debugging • App Store Deployment
+- Xcode • Git • Sourcetree • Postman • Figma • Debugging • App Store Connect
 
 <b>Features</b>
 
