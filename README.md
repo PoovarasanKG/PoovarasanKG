@@ -74,8 +74,10 @@ track task progress, and collaborate efficiently whether working remotely or in 
 - Light & Dark Mode Support
 - Git Version Control
 
-# [SHOU EMA](https://apps.apple.com/lt/app/shouema/id6477866974)
-[View on App Store](https://apps.apple.com/lt/app/shouema/id6477866974)
+## 📱 SHOU EMA
+- iOS version developed for internal/client deployment.  
+- Public Android version available here:
+[View on Play Store](https://play.google.com/store/apps/details?id=com.shouema&hl=en_IN)
 
 Air Quality Sensor App is an iOS application designed to collect and analyze indoor air quality data from NFC-enabled Nexelec SIGN sensors. The app allows users to scan sensors using their device’s NFC capability, retrieve environmental data, and visualize air quality metrics in an intuitive interface.
 
