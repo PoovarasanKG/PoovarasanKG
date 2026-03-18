@@ -48,7 +48,7 @@ track task progress, and collaborate efficiently whether working remotely or in 
 </p>
 
 <p align="center">
-<img src="images/Team%20Portal/LoginPage.png" width="220"/>
+<img src="images/Team%20Portal/LoginPage.png" width="200" height="435"/>
 <img src="images/Team%20Portal/PortalPage.png" width="200"/>
 <img src="images/Team%20Portal/DashboradPage.jpeg" width="200"/>
 <img src="images/Team%20Portal/TaskManagerPage.png" width="200"/>
