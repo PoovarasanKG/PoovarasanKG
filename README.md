@@ -53,6 +53,7 @@ I enjoy building <b>reusable components</b>, improving <b>application performanc
 - Bluetooth Low Energy (BLE) Device Scanning
 - Map-based Data Visualization
 - Push Notifications with Deep Linking Navigation
+- Concurrency (Grand Central Dispatch - GCD)
  
 <h3>📱 Focus Areas</h3>
 
@@ -102,6 +103,7 @@ track task progress, and collaborate efficiently whether working remotely or in 
 - Push Notifications
 - Deep Linking Navigation
 - Local Notifications
+- Concurrency (Grand Central Dispatch - GCD)
 - MVC Architecture
 - Auto Layout
 - Programmatic UI
