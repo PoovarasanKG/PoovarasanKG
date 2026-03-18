@@ -27,24 +27,52 @@ Programmatic UI • Storyboard • XIBs • JSON Parsing • REST API's Integrat
 iOS Application Development • Mobile Architecture • Performance Optimization • Clean UI Development
 </p>
 
-# [eTracksys QHSE](https://apps.apple.com/in/app/e-tracksys-qhse/id6460692225)
-The HSE Risk QUEST App enables quick incident reporting with essential details. HSE Tracking People tracks operator locations in real time using various technologies. The HSE Non-Conformance Video Analytics system detects safety breaches like PPE violations and fire hazards. HSE Incident Reporting Tools provide advanced analytics to identify trends and improve safety.
+# [Team Portal](https://apps.apple.com/us/app/emr-employee-app/id6742842353)
+[View on App Store](https://apps.apple.com/us/app/emr-employee-app/id6742842353)
 
-Designed and developed from scratch, focusing on user-friendly UI and smooth functionality. Led the Apple App Store submission process, ensuring a successful launch along with continuous updates, bug fixes, and new feature rollouts.
+<p>
+Team Portal is a workplace productivity and employee management application designed to improve
+communication, collaboration, and daily workflow management within organizations.
+</p>
 
-<p align="left">
-<img src="https://github.com/user-attachments/assets/3cdd3803-42f5-4694-a1c5-07fb4d22ca82", width="200"/>
+<p>
+The app provides employees with a centralized platform to manage meetings, tasks, and important
+company updates. Key features include a meeting scheduler, task manager, to-do lists, company
+announcements, attendance tracking, and access to essential HR services such as payslips and leave
+information.
+</p>
 
+<p>
+Designed with a focus on usability and performance, the application enables teams to stay organized,
+track task progress, and collaborate efficiently whether working remotely or in the office.
+</p>
+
+<p align="center">
+<img src="images/Team%20Portal/LoginPage.png" width="220"/>
+<img src="images/Team%20Portal/PortalPage.png" width="220"/>
+<img src="images/Team%20Portal/DashboradPage.jpeg" width="220"/>
+<img src="images/Team%20Portal/TaskManagerPage.png" width="220"/>
+<img src="images/Team%20Portal/ChatPage.PNG" width="220"/>
+<img src="images/Team%20Portal/AnalyticsPage.png" width="220"/>
+<img src="images/Team%20Portal/PortalsPages.png" width="220"/>
+<img src="images/Team%20Portal/ProfilePage.jpeg" width="220"/>
+  
 </p>
 
 **Tech Used**
 - Swift
+- UIKit
 - Core Data
-- REST API's
-- Firebase Notification
-- App Storage
-- Customized UI 
-
+- REST APIs
+- JSON Parsing
+- Firebase Firestore (Real-time Chat)
+- Push Notifications
+- MVC Architecture
+- Auto Layout
+- Programmatic UI
+- Customized UI Components
+- Light & Dark Mode Support
+- Git Version Control
 
 # [TAR System](https://apps.apple.com/in/app/tar-system/id6448125946)
 This app lets you verify the authenticity of wines with a TAR seal using your smartphone’s NFC reader. It ensures complete traceability from production to sale, provides consumer reviews, offers food pairing recommendations from the winery, and exclusive promotions for users who scan the TAR label. Advanced technology guarantees authenticity, with each bottle having a unique code for direct feedback to the winery.
