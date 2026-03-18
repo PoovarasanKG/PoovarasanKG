@@ -27,7 +27,7 @@ I enjoy building <b>reusable components</b>, improving <b>application performanc
 
 <b>Data & Networking</b>
 
-- REST APIs • JSON Parsing • Core Data
+- REST APIs • Codable • Core Data
 
 <b>Apple Frameworks</b>
 
