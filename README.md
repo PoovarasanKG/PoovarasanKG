@@ -134,20 +134,33 @@ Users can view historical detection locations on Apple Maps, including markers, 
 - Background Processing
 - Git Version Control 
 
-# [Zeal Biz](https://apps.apple.com/in/app/zealbiz/id1547217969)
-Designed and implemented a digital business card app, enhancing professional networking with NFC-based contact sharing.
-<p align="left">
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.25%20(1).jpeg", width="200"/>
-<img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.25.jpeg", width="200"/>
-  <img src="https://github.com/MedathSelvaSingh/MedathSelvaSingh/blob/80cd2e2d410f2818a21aa44d70f71a9472afc801/WhatsApp%20Image%202025-04-03%20at%2020.32.24.jpeg", width="200"/>
+# [Nissi iLog](https://apps.apple.com/jo/app/nissi-ilog/id6547854369)
+[View on App Store](https://apps.apple.com/jo/app/nissi-ilog/id6547854369)
+
+Employee Activity Tracker is a workplace productivity application designed to help organizations monitor daily work updates, track task progress, and improve team accountability. The app enables employees to log their daily activities while allowing managers to review updates and approve tasks through a centralized system.
+
+It provides modules for activity logging, task approvals, and real-time notifications, ensuring smooth communication between employees and management. Data is synchronized in real time to keep updates consistent across different user roles, enabling teams to stay informed about task status and daily progress.
+
+The application focuses on providing a simple and efficient workflow for reporting work updates and maintaining transparency within the organization.
+
+<p align="center">
+<img src="images/iLog/LoginPage.webp" width="200"/>
+<img src="images/iLog/SignUpPage.webp" width="200"/>
+<img src="images/iLog/SetupPage.webp" width="200"/>
+<img src="images/iLog/DashboradPage.webp" width="200"/>
+<img src="images/iLog/SubmitPage.webp" width="200"/>
+<img src="images/iLog/MembersPage.webp" width="200"/>
 </p>
 
 **Tech Used:**  
-- Swift  
-- Core NFC  
-- QR Code Integration  
-- Firebase Auth
-- Screen Time
+- Swift
+- UIKit
+- Firebase Firestore
+- REST APIs
+- Push Notifications
+- Auto Layout
+- Programmatic UI
+- Git Version Control
 
 ## **📫 Connect with Me**  
 - **LinkedIn:** (https://www.linkedin.com/in/poovarasan-k-/)  
