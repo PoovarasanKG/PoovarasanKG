@@ -1,10 +1,10 @@
 <h3 align="center">👋 Hi, I'm Poovarasan</h3>
-<p align="center">Swift • UIKit • SwiftUI • iOS Development | 2.5+ Years Experience</p>
+<p align="center">Swift • UIKit • SwiftUI • iOS Development | 2.8+ Years Experience</p>
 
 ---
 
 <p>
-I'm an <b>iOS Developer</b> with <b>2.5+ years of experience</b> building scalable and user-friendly mobile applications. I focus on creating clean, maintainable code and delivering reliable iOS applications from <b>development to App Store deployment</b>.
+I'm an <b>iOS Developer</b> with <b>2.8+ years of experience</b> building scalable and user-friendly mobile applications. I focus on creating clean, maintainable code and delivering reliable iOS applications from <b>development to App Store deployment</b>.
 </p>
 
 <p>
